@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+
+    <string name="terrain">Terrain</string>
+    <string name="none">None</string>
+    <string name="satellite">Satellite</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="lat_lng" formatted="false">Latitude: %f  Longitude: %f </string>
+    <string name="permission_denied">Location Permission denied.</string>
+    <string name="location_access_denied">Oops!! Location access denied. This app will not work without GPS.</string>
+
+    <!--put your google api key here-->
+    <string name="google_map_api_key">Your Google API Key here</string>
+</resources>
